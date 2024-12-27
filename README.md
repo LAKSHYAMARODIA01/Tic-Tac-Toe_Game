@@ -1,3 +1,4 @@
+# Author: Lakshya Marodia (28_Dec_24)
 # Tic Tac Toe Game
 
 ## 📜 Project Description

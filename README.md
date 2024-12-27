@@ -28,7 +28,8 @@ Tic Tac Toe is a classic two-player game where players take turns marking a squa
    cd tic-tac-toe
    Run the Game: Execute the following command to start the game:
    python tic_tac_toe.py
-🎮 Instructions for Playing
+   
+🎮 **Instructions for Playing**
 Starting the Game: Upon running the game, you will see a welcome message indicating the symbols for Player 1 (X) and Player 2 (O).
 
 Making a Move: Players will be prompted to enter their move by specifying a number from 1 to 9, corresponding to the positions on the board:
@@ -45,7 +46,7 @@ Making a Move: Players will be prompted to enter their move by specifying a numb
 
 6. Draw Condition: If all positions are filled and no player has won, the game will declare a draw.
 
-📄 License
+📄 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🤝 Contributing

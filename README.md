@@ -53,7 +53,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 🤝 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-📫 Contact
+ 📫 **Contact**
 For any inquiries or feedback, please contact me at www.linkedin.com/in/lakshya-marodia .
 
 Enjoy playing Tic Tac Toe! 🎉
